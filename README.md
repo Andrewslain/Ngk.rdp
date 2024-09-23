@@ -28,7 +28,7 @@ All of those secrets are required for the script to work, if you forget to add o
 
 8) Connect to the host and port combination with a RDP client of your preference
 
-9) If it requires an username, write "runneradmin" and as password, the password that you wrote in the RDP_PASSWORD secret in step 3
+9) If it requires an username, write "runneradmin" and as password, the password that you wrote in the RDP_PASSWORD secret in step 3..
 
 10) Once connected, be sure to not close any already open processes and windows, and most importantly: DO NOT UNINSTALL NOTHING
 
